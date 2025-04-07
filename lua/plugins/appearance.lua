@@ -71,7 +71,7 @@ return {
         },
         preview_window = {
           -- Automatically open preview of code location when navigating outline window
-          auto_preview = true,
+          auto_preview = false,
           -- Automatically open hover_symbol when opening preview (see keymaps for
           -- hover_symbol).
           -- If you disable this you can still open hover_symbol using your keymap
